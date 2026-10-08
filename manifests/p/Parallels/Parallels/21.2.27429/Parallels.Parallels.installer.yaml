@@ -2,7 +2,6 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: Parallels.Parallels
-PackageVersion: 21.2.27429
 InstallerLocale: en-US
 InstallerType: wix
 Scope: machine
